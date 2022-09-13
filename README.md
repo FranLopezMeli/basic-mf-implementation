@@ -11,7 +11,7 @@ cd container
 npm i
 npm start
 ```
-## Levantar Módulo Federado
+## Endpoint Módulo Federado
 ```
 cd widget
 npm i
