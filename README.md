@@ -20,7 +20,7 @@ npm start
 
 Navegar a: http://localhost:8080
 
-## URL de Módulo Federado
+## URL del Módulo Federado expuesto
 Navegar a: http://localhost:8081/remoteEntry.js
 
 ### Implementación del plugin
