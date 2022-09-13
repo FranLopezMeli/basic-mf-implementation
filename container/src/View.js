@@ -13,7 +13,7 @@ const View = () => {
 
   return (
     <div className="container">
-      <h1>Hello World</h1>
+      <h1>Hello Module Federation</h1>
       <p>Counter: {counter}</p>
       <div>
         <button onClick={() => setCounter(counter + 1)}>Add 1</button>
