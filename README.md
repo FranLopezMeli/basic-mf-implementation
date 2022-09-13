@@ -22,3 +22,8 @@ Navegar a: http://localhost:8080
 
 ## URL de Módulo Federado
 Navegar a: http://localhost:8081/remoteEntry.js
+
+### Implementación del plugin
+
+[Host](https://github.com/FranLopezMeli/basic-mf-implementation/blob/main/container/config/webpack.dev.js#L15) - 
+[Módulo](https://github.com/FranLopezMeli/basic-mf-implementation/blob/main/container/config/webpack.dev.js#L15)
