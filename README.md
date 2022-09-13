@@ -7,13 +7,13 @@ git clone git@github.com:FranLopezMeli/basic-mf-implementation.git
 ```
 ## Levantar Host
 ```
-cd app
+cd container
 npm i
 npm start
 ```
 ## Levantar Módulo Federado
 ```
-cd container
+cd widget
 npm i
 npm start
 ```
