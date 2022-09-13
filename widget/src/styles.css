@@ -1,0 +1,9 @@
+.widget {
+  border: 1px solid silver;
+  border-radius: 6px;
+  padding: 20px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.1);
+}
